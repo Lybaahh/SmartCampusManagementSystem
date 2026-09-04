@@ -51,9 +51,13 @@ Project Structure
 - CampusManagementGUI
 
 Academic Purpose
+
 Developed as an Object-Oriented Programming course project to demonstrate practical implementation of OOP principles, GUI development, and file handling in Java.
 
 Author
+
 Laiba Naeem
+
 Computer Science Student
+
 COMSATS University Islamabad
