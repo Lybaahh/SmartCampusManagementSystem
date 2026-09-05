@@ -1,6 +1,7 @@
 Smart University Campus Management System
 
 Overview
+
 The Smart University Campus Management System is a Java-based desktop application developed as an Object-Oriented Programming (OOP) project. The system manages academic units, facilities, service units, courses, students, and campus zones through an interactive graphical user interface.
 
 Features
